@@ -1,0 +1,8 @@
+bin/
+obj/
+*.db
+*.sqlite
+appsettings.Development.json
+appsettings.json
+.vs/
+build-log.txt
